@@ -6,4 +6,4 @@ Turns lastname firstname into firstname last name
 
 # example 
 
-Calling rearrangename('karasJohny', 'JohnyKaras')
+Calling rearrangename from 'karasJohny' to 'JohnyKaras'
