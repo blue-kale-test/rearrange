@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+ 
 aye
-this col
-=======
+ 
 ?????? edited from add-me
->>>>>>> d7540b6 (updated mainfile.txt)
+ (updated mainfile.txt)
+=======
+  edited from add-me
+ 
