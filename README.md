@@ -13,3 +13,6 @@ modified in main branch
 =======
 This module is used for rearranging names.
 (Add a simple readme file.)
+=======
+Calling some weak python code.
+(Added more information to the README)
