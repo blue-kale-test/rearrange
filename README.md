@@ -5,6 +5,6 @@ This module is used for rearranging names.
 
 Rearrange 'LastName, Firstname' into 'FirstName Lastname'
 
-# Example
+# a great example
 
 'Turing, Alan' --> 'Alan Turing'
