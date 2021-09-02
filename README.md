@@ -2,7 +2,7 @@ Rearrnge
 =========
 
 This module is used for rearranging names.
-Turns "LastnName, "FirstName" into "FirstName LastName"
+Turns "LastName, "FirstName" into "FirstName LastName"
 
 #Example
 
