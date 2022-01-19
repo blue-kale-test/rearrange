@@ -5,7 +5,8 @@
 This module is used for rearrange names.
 Turns "LastName, FirstName" into "FirstName LastName"
 
-Add this line for issue tracker
+Add this line for issue tracker.
+
 
 ## Example
 
