@@ -1,0 +1,9 @@
+Rearrange
+=========
+
+This module is used for rearranging name.
+Turns "LastName, FirstName" into "FirstName LastName"
+
+#Example
+
+Calling 'rearrange_name("Hanyu, Yuzuru") will return "Yuzuru Hanyu"'
