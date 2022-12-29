@@ -1,0 +1,29 @@
+File is visible!  
+
+Depending what GitHub account you are signed into will determine your 
+permision to push updated info to your listed fork repo's.
+
+Error msg. may occur:
+
+remote: Permission to StudentPy1/rearrange.git denied to <User?.
+fatal: unable to access 'https://github.com/StudentPy1/rearrange.git/': The requested URL returned error: 403
+
+Quick fix for windows users:
+
+* Open Credential Manager
+* select "Windows Credentials" 
+* scroll down, locate find "github.com" 
+*Open tab, press "REMOVE" to delete your login info.
+
+* Return to your terminal 
+* Enter command: git push -u main (you may haaave your Head listed as "Master")
+* You will be redirected to sign in
+* Sign in with your web browser
+* You should receive Auth Msg. approving sign in
+* Close Web Browser
+* Return to your terminal
+* Type, git push
+
+Someone may have written a script to prompt a user to automate this process. 
+I should work on that!
+
