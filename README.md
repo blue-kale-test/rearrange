@@ -3,7 +3,9 @@ Rearrange
 =========
 
 This module is used for rearranging names.
+
 <<<<<<< HEAD
+
 Turns "LastName, FirstName" into "FirstName LastName".
 
 ##Example
