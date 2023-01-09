@@ -1,2 +1,7 @@
 # rearrange
-From 2nd video in last week for Git Coursera course
+Rearrgange
+================
+
+This module is used for rearranging names
+
+Turns "Lastname, Firstname" to "Firstname, Lastname"
