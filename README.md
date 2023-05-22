@@ -1,5 +1,5 @@
 # Rearrange
-========
+=======
 
 This module ise used for rearranging names.
 Turns "LastName, FirstName" into "FirstName LastName"
