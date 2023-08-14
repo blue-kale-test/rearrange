@@ -1,0 +1,12 @@
+Rearrange
+
+========
+
+Creating a README.md file to the repo :)
+
+# Example
+
+THIS MESSAGE TO THE ONE THAT IS READING THIS 
+"DON'T EVER GIVE UP,
+  IF IT EASY EVERY BODY CAN DO IT ,
+  REMEMMBER (GOOD THINGS TAKE TIME)"
