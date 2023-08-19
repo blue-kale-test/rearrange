@@ -1,2 +1,4 @@
-# rearrange-test
-for study only
+Rearrange
+=========
+
+This module is used for rearranging names.
