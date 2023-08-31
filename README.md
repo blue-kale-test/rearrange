@@ -7,3 +7,5 @@ This module to rearrange names
 ## Example
 * rearrange ('turing','alan') return alan turin
 *  rearrange ('bosso','walid') return walid bosso
+> 1
+Closes #1
