@@ -8,4 +8,5 @@ This module to rearrange names
 * rearrange ('turing','alan') return alan turin
 *  rearrange ('bosso','walid') return walid bosso
 > 1
-Closes #1
+> 2
+Closes #755
