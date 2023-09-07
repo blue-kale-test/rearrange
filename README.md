@@ -7,3 +7,17 @@ __italy maybe_
 |----------|----------|----------|
 |   Cell   |   Cell   |   Cell   |
 |   Cell   |   Cell   |   Cell   |
+
+this is an update:
+
+<span style="background-color:black;color:white">maybe highlighted word</span>
+[maybe a link](https://google.com "don't trust this link")
+
+- item1
+	-item1 little
+	-item2 little
+- item2
+	-item2 little
+	-item2 little
+	-item2 little
+		-item2 little little 
