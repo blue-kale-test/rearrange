@@ -10,7 +10,7 @@ __italy maybe_
 
 this is an update:
 
-<span style="background-color:black;color:white">maybe highlighted word</span>
+<mark>maybe highlighted word</mark>
 [maybe a link](https://google.com "don't trust this link")
 
 - item1
