@@ -1,5 +1,5 @@
 echo $USERNAME
 pwd
 ls
-echo san sefini
+echo San Sefini macho
 
