@@ -9,3 +9,6 @@ echo il descangayado mascalzone
 nadies me va a impedir
 de disfrutar el delicioso raviolich
 
+con tuco y berberecho
+un par de damajuana' y muemmromecho
+
