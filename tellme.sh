@@ -39,3 +39,5 @@ add a CANDIDATE fix
 new developement for 0.2
 this is the start of 0.2
 
+1st fix on CANDIDATE
+
