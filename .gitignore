@@ -1,0 +1,43 @@
+# Ignorar archivos y carpetas temporales o generados (caché, entornos, IDEs, OS)
+
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Distribuciones / empaquetado
+build/
+dist/
+*.egg-info/
+
+# Pruebas / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+*.db
+
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales y backups
+*~
+*.swp
+*.bak
+
+# Variables de entorno / secretos locales
+.env
+
